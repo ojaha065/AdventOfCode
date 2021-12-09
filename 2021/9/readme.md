@@ -14,4 +14,5 @@ Consider the following heightmap:
 ```
 
 Part 1: Find all of the low points on your heightmap.
+
 Part 2: A basin is all locations that eventually flow downward to a single low point. What do you get if you multiply together the sizes of the three largest basins?
