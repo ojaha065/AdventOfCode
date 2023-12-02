@@ -7,6 +7,7 @@ Finally decided to get my act together and start completing these.
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
 | [Day 1](https://adventofcode.com/2023/day/1) | ⭐ | ⭐ |
+| [Day 2](https://adventofcode.com/2023/day/2) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
 
 [Advent of Code website](https://adventofcode.com/ "Advent of Code")
