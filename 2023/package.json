@@ -4,7 +4,7 @@
   "description": "Advent of Code 2023",
   "private": true,
   "scripts": {
-    "start": "nodemon %INIT_CWD%/run.ts"
+    "start": "nodemon -e ts,txt %INIT_CWD%/run.ts"
   },
   "repository": {
     "type": "git",
