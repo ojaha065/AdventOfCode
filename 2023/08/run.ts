@@ -20,7 +20,7 @@ const network = Object.fromEntries(rows
 
 console.info("Part 1: " + walk("AAA"));
 
-// This assumes that path length from __A to __Z is the same than the period of the cycle 
+// This assumes the path length from __A to __Z is equal to the period of the cycle 
 console.info("Part 2: " + Object.keys(network)
     .filter(node => node.endsWith("A"))
     .map(node => walk(node, true))
