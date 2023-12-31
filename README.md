@@ -21,6 +21,7 @@ Finally decided to get my act together and start completing these.
 | [Day 15](https://adventofcode.com/2023/day/15) | ⭐ | ⭐ |
 | [Day 16](https://adventofcode.com/2023/day/16) | ⭐ | ⭐ |
 | [Day 19](https://adventofcode.com/2023/day/19) | ⭐ |   |
+| [Day 20](https://adventofcode.com/2023/day/20) | ⭐ |   |
 <!--- advent_readme_stars table --->
 
 [Advent of Code website](https://adventofcode.com/ "Advent of Code")
