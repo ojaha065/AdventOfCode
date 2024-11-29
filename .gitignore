@@ -106,3 +106,5 @@ dist
 # AoC input files
 input
 input.*
+
+.vscode/launch.json

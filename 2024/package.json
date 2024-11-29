@@ -1,0 +1,23 @@
+{
+  "name": "aoc_2024",
+  "version": "1.0.0",
+  "description": "Advent of Code 2024",
+  "private": true,
+  "scripts": {
+    "start": "nodemon -e ts,txt %INIT_CWD%/run.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojaha065/AdventOfCode.git",
+    "directory": "2024"
+  },
+  "author": "Jani Haiko",
+  "license": "MIT",
+  "homepage": "https://github.com/ojaha065/AdventOfCode#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
